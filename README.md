@@ -2,7 +2,7 @@
 A PWA App for learning those pesky German articles using flashcards with images and content sourced from a headless CMS.
 
 ## Link
-You can visit the site [here](https://blink-flash.vercel.app/).
+You can visit the site [here](https://triple-d.vercel.app/).
 
 ## Features
 * Authentication
