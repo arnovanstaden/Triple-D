@@ -1,5 +1,5 @@
 # Triple D
-[In Development] A PWA App for learning German nouns, and those pesky articles, and their accompanying nouns, by language level and category through flashcards with images and content sourced from a headless CMS.
+[In Development] A PWA App for learning German nouns, and those pesky articles, by language level and category through flashcards with images and content sourced from a headless CMS.
 
 ## Link
 You can visit the site [here](https://triple-d.vercel.app/).
